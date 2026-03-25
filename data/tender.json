@@ -40,160 +40,193 @@
 
   "peserta": [
     {
+      "nik": "10083569",
+      "nama": "DUDIK FAHRUDIN SUKARNO",
+      "jabatan_sasaran": "MANAGER TEKNIK",
+      "level_sasaran": "14",
+      "lokasi":"CABANG SEMARANG"
+    },
+    {
       "nik": "10010124",
       "nama": "AGUNG HUTRIONO DWIAVIANTO",
-      "jabatan_sasaran": "Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK 4",
+      "level_sasaran": "14",
+      "lokasi":"CABANG PALEMBANG"
     },
     {
       "nik": "10083449",
       "nama": "EMAN SUTRANAYA",
-      "jabatan_sasaran": "Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "JUNIOR MANAGER SISTEM RECORDING, SWITCHING & JARINGAN",
+      "level_sasaran": "14",
+      "lokasi":"CABANG JATSC"      
     },
     {
       "nik": "10010800",
       "nama": "SONI HERIANTO",
-      "jabatan_sasaran": "Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK 1",
+      "level_sasaran": "14",
+      "lokasi":"CABANG PONTIANAK"      
     },
     {
       "nik": "10083702",
       "nama": "RAJA MULIA SIREGAR",
-      "jabatan_sasaran": "Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK",
+      "level_sasaran": "14",
+      "lokasi":"CABANG PEKANBARU"
     },
     {
       "nik": "10011145",
       "nama": "WAHYUDI KUSNANDAR",
-      "jabatan_sasaran": "Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK",
+      "level_sasaran": "14",
+      "lokasi":"CABANG WAMENA"      
     },
     {
       "nik": "10083789",
       "nama": "DIDIK ANDRIYANTO",
-      "jabatan_sasaran": "Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK 1",
+      "level_sasaran": "14",
+      "lokasi":"CABANG PALEMBANG"      
     },
     {
       "nik": "10083538",
       "nama": "WIDAGDO TEGUH SANTOSO",
-      "jabatan_sasaran": "Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK 3",
+      "level_sasaran": "14",
+      "lokasi":"CABANG BALIKPAPAN"      
     },
     {
       "nik": "10010438",
       "nama": "ALAM FAHMI",
-      "jabatan_sasaran": "Manager Bidang Teknik Penunjang",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "ASSISTANT VICE PRESIDENT OF ELECTRICAL AND MECHANICAL PLANNING",
+      "level_sasaran": "14",
+      "lokasi":"KANTOR PUSAT"      
     },
     {
       "nik": "10083772",
       "nama": "ZULKARNAIN",
-      "jabatan_sasaran": "Manager Bidang Teknik Penunjang",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK 2",
+      "level_sasaran": "14",
+      "lokasi":"CABANG PALEMBANG"      
     },
     {
       "nik": "10011106",
       "nama": "HERMAN MARKOS SIRAIT",
-      "jabatan_sasaran": "Manager Bidang Teknik Penunjang",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "SUPERVISOR TEKNIK PENUNJANG",
+      "level_sasaran": "14",
+      "lokasi":"CABANG JATSC"      
     },
     {
       "nik": "10083717",
       "nama": "BAMBANG ANANTO",
-      "jabatan_sasaran": "Manager Bidang Teknik Penunjang",
-      "level_sasaran": "15"
+      "jabatan_sasaran": "MANAGER TEKNIK 2",
+      "level_sasaran": "14",
+      "lokasi":"CABANG BALIKPAPAN"      
     },
     {
       "nik": "10010456",
       "nama": "MUHAMMAD KAUKAB",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Penunjang",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "SUPERVISOR TEKNIK PENUNJANG",
+      "level_sasaran": "13",
+      "lokasi":"CABANG JATSC"      
     },
     {
       "nik": "10014363",
       "nama": "ANGGA TEGAR DWICAHYANTO",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Penunjang",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "ANALIS INVESTASI PERUSAHAAN",
+      "level_sasaran": "13",
+      "lokasi":"KANTOR PUSAT"      
     },
     {
       "nik": "10010407",
       "nama": "YUDI RAMDHANI",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Penunjang",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "JUNIOR MANAGER FASILITAS PENUNJANG",
+      "level_sasaran": "13",
+      "lokasi":"CABANG BALIKPAPAN"
     },
     {
       "nik": "10083817",
       "nama": "YOSEP DWI PUJIADI",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Penunjang",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "JUNIOR MANAGER FASILITAS PENUNJANG",
+      "level_sasaran": "13",
+      "lokasi":"CABANG PONTIANAK"      
     },
     {
       "nik": "10010452",
       "nama": "DENY WIRA YUDHA",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Penunjang",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "SUPERVISOR TEKNIK PENUNJANG",
+      "level_sasaran": "13",
+      "lokasi":"CABANG JATSC"      
     },
     {
       "nik": "10012732",
       "nama": "PRUDENCE PATRICIA HIEROPLOISE PALINGGI",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "KEPALA CABANG PEMBANTU",
+      "level_sasaran": "13",
+      "lokasi":"CABANG PEMBANTU LABUAN BAJO"      
     },
     {
       "nik": "10010449",
       "nama": "WISNU ARI WIBOWO",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "SUPERVISOR TEKNIK TELEKOMUNIKASI",
+      "level_sasaran": "13",
+      "lokasi":"CABANG YOGYAKARTA"      
     },
     {
       "nik": "10083734",
       "nama": "SIGIT PRIYO PRAKOSO",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "JUNIOR MANAGER FASILITAS TELEKOMUNIKASI PENERBANGAN",
+      "level_sasaran": "13",
+      "lokasi":"CABANG YOGYAKARTA"      
     },
     {
       "nik": "10010972",
       "nama": "YULIANTO HADI SAPUTRA",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "REPAIR SPECIALIST",
+      "level_sasaran": "13",
+      "lokasi":"AIRNAV MAINTENANCE FACILITY"      
     },
     {
       "nik": "10012417",
       "nama": "FIKRI SEPTIAN",
-      "jabatan_sasaran": "Junior Manager Bidang Teknik Telekomunikasi",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "JUNIOR MANAGER FASILITAS CNS DAN OTOMASI",
+      "level_sasaran": "13",
+      "lokasi":"CABANG BALIKPAPAN"       
     },
     {
       "nik": "10010377",
       "nama": "DICKY ARISTIOKO",
-      "jabatan_sasaran": "Manager Teknik",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "REPAIR SPECIALIST",
+      "level_sasaran": "13",
+      "lokasi":"AIRNAV MAINTENANCE FACILITY"      
     },
     {
       "nik": "10012512",
       "nama": "ANDHI YULLYAWAN",
-      "jabatan_sasaran": "Manager Teknik",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "SPESIALIS PENGADAAN",
+      "level_sasaran": "13",
+      "lokasi":"KANTOR PUSAT"      
     },
     {
       "nik": "10010861",
       "nama": "ANDI MUSTOFA AL KHOIR",
-      "jabatan_sasaran": "Manager Teknik",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "JUNIOR MANAGER FASILITAS PENUNJANG",
+      "level_sasaran": "13",
+      "lokasi":"CABANG SENTANI"      
     },
     {
       "nik": "10083811",
       "nama": "WIDI PRIATMADI SUBARKAH",
-      "jabatan_sasaran": "Manager Teknik",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "REPAIR SPECIALIST",
+      "level_sasaran": "13",
+      "lokasi":"AIRNAV MAINTENANCE FACILITY"        
     },
     {
       "nik": "10010950",
       "nama": "ABDUL GANI ALFARISI",
-      "jabatan_sasaran": "Manager Teknik",
-      "level_sasaran": "14"
+      "jabatan_sasaran": "JUNIOR MANAGER FASILITAS CNS DAN OTOMASI",
+      "level_sasaran": "13",
+      "lokasi":"CABANG MEDAN"      
     }
   ],
 

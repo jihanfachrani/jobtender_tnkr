@@ -115,6 +115,11 @@ background:#f9f9f9;
 
 }
 
+table td:first-child {
+  text-align: center;
+  width: 50px;
+}
+
 /* =====================
 CARD CONTAINER
 ===================== */
@@ -198,6 +203,7 @@ text-align:center;
 padding:12px;
 border-bottom:1px solid #eee;
 text-align:left;
+
 
 }
 
